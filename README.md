@@ -11,7 +11,7 @@ Visual Studio Code
 
 ## Qual a importância desse projeto para mim?
 Por meio desse projeto iniciei minha jornada no desenvolvimento web. Por meio deste exercício da minha graduação, aprofundei meus parcos conhecimentos em HTML e CSS.
-**Esse projeto será revisitado futuramente**. Posto, com a certeza de que, futuramente, voltarei aqui e conseguirei ver o meu desempenho. 🚀
+**Esse projeto será revisitado futuramente**. Posto, com a certeza de que logo em breve voltarei com uma nova versão e com um melhor desempenho. 🚀
 
 ## Quais habilidades são necessárias para desenvolver e assimilar esse código?
 Noções básicas de HTML.
